@@ -19,6 +19,7 @@
 
 <p align="left"> 
    <a href="https://icons8.com/icon/Rc0Xn5AtE8kX/python"></a>
+   <a href="https://icons8.com/icon/13441/python"></a>
 </p>
 
 
