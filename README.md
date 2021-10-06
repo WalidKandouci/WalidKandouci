@@ -26,8 +26,5 @@
   <img src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>
 </p>
 
-[![Spotify](https://novatorem-walidkandouci.vercel.app/api/spotify)](http://open.spotify.com/WalidKandouci/d6e0923b95fb4344aaf17648d8e95d21)
-
-
-[![Spotify](https://novatorem-brown-eight.vercel.app/api/spotify)](https://open.spotify.com/user/WalidKandouci)
+[![Spotify](https://novatorem-nwd3pgfmc-walidkandouci.vercel.app/api/spotify)](https://open.spotify.com/user/WalidKandouci)
 
