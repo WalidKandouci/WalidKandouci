@@ -26,4 +26,4 @@
   <img src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>
 </p>
 
-[![Spotify](https://novatorem-rho-two.vercel.app/api/spotify)]
+[<img src="https://novatorem-rho-two.vercel.app/api/spotify-playing" alt="Spotify now Playing" width="350" />]
