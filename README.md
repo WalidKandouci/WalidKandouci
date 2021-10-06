@@ -18,7 +18,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-   <a> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/></a>
+<img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
 </p>
 
 
