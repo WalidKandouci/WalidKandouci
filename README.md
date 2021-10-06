@@ -26,4 +26,4 @@
   <img src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>
 </p>
 
-[<img src="http://novatorem-6bex75p37-walidkandouci.vercel.app/api/spotify-playing" alt="Spotify Now Playing" />]
+[<img src="http://novatorem-rho-two.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>]
