@@ -25,3 +25,5 @@
   <img src="https://img.icons8.com/color/50/000000/microsoft-office-2019.png"/>
   <img src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>
 </p>
+
+[![Spotify](https://novatorem-rho-two.vercel.app/api/spotify)]
