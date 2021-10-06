@@ -18,8 +18,10 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img src="https://img.icons8.com/external-becris-flat-becris/48/000000/external-r-data-science-becris-flat-becris.png"/>
+  <img src="https://img.icons8.com/color/50/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/external-becris-flat-becris/50/000000/external-r-data-science-becris-flat-becris.png"/>
+  <img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/material-outlined/50/000000/github.png"/>
 </p>
 
 
