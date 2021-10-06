@@ -18,7 +18,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-   <a href="https://icons8.com/icon/Rc0Xn5AtE8kX/python">Python icon by Icons8</a>
+   <a href="https://icons8.com/icon/Rc0Xn5AtE8kX/python"></a>
 </p>
 
 
