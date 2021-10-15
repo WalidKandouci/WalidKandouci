@@ -25,9 +25,3 @@
   <img src="https://img.icons8.com/color/50/000000/microsoft-office-2019.png"/>
   <img src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>
 </p>
-
-[![Spotify](https://novatorem-nwd3pgfmc-walidkandouci.vercel.app/api/spotify)](https://open.spotify.com/user/WalidKandouci)
-
-[src="https://novatorem-nwd3pgfmc-walidkandouci.vercel.app/api/spotify)"](https://open.spotify.com/user/WalidKandouci)
-
-[<img align="center" src="https://spotify-now-playing.WalidKandouci.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/WalidKandouci)
