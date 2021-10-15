@@ -28,3 +28,4 @@
 
 [![Spotify](https://novatorem-nwd3pgfmc-walidkandouci.vercel.app/api/spotify)](https://open.spotify.com/user/WalidKandouci)
 
+[src="https://novatorem-nwd3pgfmc-walidkandouci.vercel.app/api/spotify)"](https://open.spotify.com/user/WalidKandouci)
