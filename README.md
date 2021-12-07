@@ -5,6 +5,7 @@
 - 👨‍💻 The learning process will never end !
 - ✈️ My journy started in Algeria :algeria: ❤️🤍💚
 - ⚽️ I've been a football fan my entire life (🐺 AS Roma ❤️💛)
+- 🎸 Rock N Roll will never die !
 - 🥊🥋 HUGE FAN of martial arts but I've been too lazy lately to practice 😅
 
 ## Connect with me:
