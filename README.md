@@ -12,12 +12,17 @@
 ### Cloud
 
 <p align="left"> <a> 
-<img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="aws" width="40" height="40"/> </a><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+<img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="aws" width="40" height="40"/> </a>
+
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
  
 ### Programming languages
  
-<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a> <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-489x512-l5jhenj6.png" alt="java" width="40" height="40"/> </a> 
+<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
  
+<a> <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-489x512-l5jhenj6.png" alt="java" width="40" height="40"/> </a> 
+ 
+<a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/2560px-RStudio_logo_flat.svg.png" alt="java" width="40" height="40"/> </a> 
  
 ### Data Science
 
