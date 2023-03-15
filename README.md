@@ -1,7 +1,6 @@
 ## Hello there, I'm Walid  👊 
 
-## Master degree in biostatistics
-
+- 💻 Big Data / Data Engineering / Data Science / Data Analysis
 - 👨‍💻 The learning process will never end !
 - ✈️ My journy started in Algeria :algeria: ❤️🤍💚
 - ⚽️ I've been a football fan my entire life (🐺 AS Roma ❤️💛)
