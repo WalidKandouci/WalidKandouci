@@ -7,12 +7,17 @@
 - 🎸 Rock N Roll will never die !
 - 🥊🥋 HUGE FAN of martial arts but I've been too lazy lately to practice 😅
 
-## 🚀 Languages and Tools:
-### Big Data
-### Data Science
+## 🚀 Languages and Tools
+
+### Cloud
 
 <p align="left"> <a> 
 <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="aws" width="40" height="40"/> </a><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+ 
+### Big Data
+### Data Science
+
+
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 
