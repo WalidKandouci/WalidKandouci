@@ -16,9 +16,7 @@
  
 ### Programming languages
  
-<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
- 
- <a> <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-489x512-l5jhenj6.png" alt="java" width="40" height="40"/> </a> 
+<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a> <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-489x512-l5jhenj6.png" alt="java" width="40" height="40"/> </a> 
  
  
 ### Data Science
