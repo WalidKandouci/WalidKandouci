@@ -22,7 +22,7 @@
  
 <a> <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-489x512-l5jhenj6.png" alt="java" width="40" height="40"/> </a> 
  
-<a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/2560px-RStudio_logo_flat.svg.png" alt="java" width="40" height="40"/> </a> 
+<a> <img src="https://www.iconarchive.com/download/i106297/papirus-team/papirus-apps/rstudio.512.png" alt="java" width="40" height="40"/> </a> 
  
 ### Data Science
 
